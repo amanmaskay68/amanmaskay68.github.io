@@ -2,6 +2,6 @@
   <head><title> first website </title> </head>
   <body> 
     hello </br>
-    <img src = 'images/qr-code_bitly.png' width="50" height="50">	
+    <img src = 'qr-code.png' width="50" height="50">
   </body>
 </html>
