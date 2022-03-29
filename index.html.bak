@@ -1,7 +1,7 @@
 <html>
   <head><title> first website </title> </head>
   <body> 
-    hello </br>
-    <img src = 'qr-code.png' width="50" height="50">
+    hello worlsd	</br>
+    <img src = 'images/qr-code_bitly.eps' width="100" height="100">	
   </body>
 </html>
