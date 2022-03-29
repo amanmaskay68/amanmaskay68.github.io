@@ -3,12 +3,16 @@ H1 {
 }
 
 #name {
-	color: red;
+	color: #0E5484;
 }
 
 .title {
 	color: blue;
 	text-align: center;
 	font-variant: small-caps;
-	
+}
+
+@viewport{
+	zoom: 1.0;
+	width: extend-to-zoom;
 }
