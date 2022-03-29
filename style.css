@@ -1,0 +1,14 @@
+H1 {
+	text-align: center;
+}
+
+#name {
+	color: red;
+}
+
+.title {
+	color: blue;
+	text-align: center;
+	font-variant: small-caps;
+	
+}
