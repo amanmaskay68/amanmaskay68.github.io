@@ -3,13 +3,19 @@ H1 {
 }
 
 #name {
-	color: #0E5484;
+	color: white; //#0E5484;
+	
 }
 
-.title {
+.header {
+	min-width: 10px;
 	color: blue;
 	text-align: center;
 	font-variant: small-caps;
+	margin: 3%;
+	margin-top:5%;
+	padding: 2%;
+	background-color:  #CC2233
 }
 
 @viewport{

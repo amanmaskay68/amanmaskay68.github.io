@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile C:\Users\Aman HP PC\Documents\repos\amanmaskay68.github.io\users\.htpasswd  
+require valid-user
