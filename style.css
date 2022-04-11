@@ -8,7 +8,7 @@ H1 {
 }
 
 .header {
-	min-width: 10px;
+	min-width: 100px;
 	color: blue;
 	text-align: center;
 	font-variant: small-caps;
@@ -18,6 +18,13 @@ H1 {
 	background-color:  #CC2233
 }
 
+#qr {
+	min-width: 100px;
+	width: 50%;
+	text-align: center;
+	visibility: hidden;
+	
+}
 @viewport{
 	zoom: 1.0;
 	width: extend-to-zoom;
